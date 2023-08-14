@@ -1,0 +1,18 @@
+body {
+ background-color: rgb(165, 67, 67);
+font-size: 25px;
+text-decoration: underline;
+text-align: center;
+}
+
+input {
+    background-color: #adb851;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+label {
+    color: white;
+}
